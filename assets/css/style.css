@@ -28,7 +28,7 @@
   right: 0;
 }
 
-@import url(https://fonts.googleapis.com/css?family=Poiret+One);
+@import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro:ital,wght@0,200..900;1,200..900&display=swap');
 .social {
   margin: 0 auto;
   width: auto;
