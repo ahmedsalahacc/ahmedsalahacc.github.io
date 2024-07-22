@@ -1,5 +1,5 @@
 # Group 1
-User-agent: Googlebot
+# User-agent: Googlebot
 Disallow: /nogooglebot/
 
 # Group 2
