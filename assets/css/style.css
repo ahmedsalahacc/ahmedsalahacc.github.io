@@ -20,7 +20,7 @@ body {
   /* background-size: cover;  */
   margin: -31px; 
   margin-left:-7px;
-  border: 6px solid rgba(0, 77, 64, 0.4); 
+  border: 6px solid #305f72; 
   border-radius: 50% !important;
 }
 
@@ -558,7 +558,7 @@ small {
 /* main .teal-text */
 
 .teal-text {
-  color: #008073 !important;
+  color: #568ea6 !important;
 }
 
 /* .teal-text {
