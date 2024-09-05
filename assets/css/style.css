@@ -670,8 +670,9 @@ small {
   }
   #intro.section .container *:not(span) {
     padding: 0;
-    padding-bottom: 30px;
-    margin-bottom: 30px;
+    /* padding-bottom: 30px; */
+    /* margin-bottom: 30px; */
+    overflow: hidden;
   }
   .card .card-content .card-title {
     font-size: 20px;
