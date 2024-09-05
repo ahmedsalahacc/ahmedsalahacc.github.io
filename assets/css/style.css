@@ -672,8 +672,12 @@ small {
     padding: 0;
     /* padding-bottom: 30px; */
     /* margin-bottom: 30px; */
+  }
+
+  #intro.section {
     overflow: hidden;
   }
+  
   .card .card-content .card-title {
     font-size: 20px;
     line-height: 24px;
